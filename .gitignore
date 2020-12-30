@@ -1,0 +1,16 @@
+.vs/
+bin/
+obj/
+results/
+node_modules/
+.DS_Store
+*.user
+*.db
+build/bin/
+.idea/
+/no label.
+.vscode/
+*.sln.DotSettings
+
+
+
